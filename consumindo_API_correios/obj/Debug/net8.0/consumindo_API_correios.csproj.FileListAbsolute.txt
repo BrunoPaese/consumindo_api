@@ -1,0 +1,5 @@
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_correios.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_correios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_correios.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_correios.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_correios.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.csproj.AssemblyReference.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\consumindo_API_cep.exe
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\consumindo_API_cep.deps.json
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\consumindo_API_cep.runtimeconfig.json
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\consumindo_API_cep.dll
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\consumindo_API_cep.pdb
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumin.33BB68B6.Up2Date
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.dll
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\refint\consumindo_API_cep.dll
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.pdb
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\consumindo_API_cep.genruntimeconfig.cache
+C:\Users\Bruno\source\repos\consumindo_API_correios\consumindo_API_correios\obj\Debug\net8.0\ref\consumindo_API_cep.dll
